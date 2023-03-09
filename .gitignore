@@ -1,2 +1,6 @@
-secret.yaml
+src/resources/
 *__pycache__*
+.venv/
+.winvenv/
+activate
+src/models/
